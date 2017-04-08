@@ -1,0 +1,16 @@
+{
+  "jspm": {},
+  "devDependencies": {
+    "@types/chai": "^3.4.35",
+    "@types/mocha": "^2.2.40",
+    "chai": "^3.5.0",
+    "chai-interface": "^2.0.3",
+    "mocha": "^3.2.0",
+    "ts-node": "^2.1.0",
+    "typescript": "^2.2.1",
+    "typings": "^2.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
