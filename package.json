@@ -1,4 +1,7 @@
 {
+  "name" : "Peracto Expression Parser",
+  "description" : "Expression Parser",
+  "version" : "0.0.1",
   "jspm": {},
   "devDependencies": {
     "@types/chai": "^3.4.35",
