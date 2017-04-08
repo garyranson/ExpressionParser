@@ -1,5 +1,5 @@
 {
-  "name" : "Peracto Expression Parser",
+  "name" : "peracto-expression-parser",
   "description" : "Expression Parser",
   "version" : "0.0.1",
   "jspm": {},
